@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kendall</h1>
 <h3 align="center">A passionate Frontend Developer from Costa Rica</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kensotosala&label=Profile%20views&color=0e75b6&style=flat" alt="kensotosala" /> </p>
 
