@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kendall</h1>
 <h3 align="center">A passionate Frontend Developer from Costa Rica</h3>
-<img aling="right" alt="Coding" height="400 "width="1200" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
-<img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kensotosala&label=Profile%20views&color=0e75b6&style=flat" alt="kensotosala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kensotosala" alt="kensotosala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kendalldevtech" target="blank"><img src="https://img.shields.io/twitter/follow/kendalldevtech?logo=twitter&style=for-the-badge" alt="kendalldevtech" /></a> </p>
 
 - 🔭 I’m currently working on **Weather App**
 
