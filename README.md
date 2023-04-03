@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="300" width="1200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="center" alt="Coding" height="300" width="1200" src"https://eufacoprogramas.com/wp-content/uploads/2018/10/programacao-front-end-definicao-1.png">
 <h1 align="center">Hi 👋, I'm Kendall</h1>
 <h3 align="center">A passionate Frontend Developer from Costa Rica</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
