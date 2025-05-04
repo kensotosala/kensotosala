@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/kendalldevtech" target="blank"><img src="https://img.shields.io/twitter/follow/kendalldevtech?logo=twitter&style=for-the-badge" alt="kendalldevtech" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **PhysioAssist App**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, HTML and CSS**
+- 💬 Ask me about **React, NextJs, .NET, Java, Python**
 
 - 📫 How to reach me **kendallsalazarsoto@gmail.com**
 
